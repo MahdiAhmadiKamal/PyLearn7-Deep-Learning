@@ -1,5 +1,5 @@
 # Face Recognition
-The present project recognizes the faces of a number of Iranian characters using [DeepFace](https://github.com/serengil/deepface). DeepFace is a lightweight face recognition and facial attribute analysis framework for python, is utilized.
+The present project recognizes the faces of a number of Iranian characters using [DeepFace](https://github.com/serengil/deepface). DeepFace is a lightweight face recognition and facial attribute analysis framework for python.
 
 <img src="pics/deepface-icon-labeled.png" width="200">
 
