@@ -1,6 +1,6 @@
 # Adding Convolutional Neural Network to MLP
 
-This part of the repository demonstrates the result of employing convolutional layers in training multi layer perceptron networks in a machine learning framework. The datasets being used are MNIST, Fashion MNIST, CIFAR10 and CIFAR100 TensorFlow datasets.
+This part of the repository demonstrates the result of employing convolutional layers in training multi layer perceptron networks in machine learning frameworks. The datasets being used are MNIST, Fashion MNIST, CIFAR10 and CIFAR100 TensorFlow datasets.
 
 
 ## How to Install
