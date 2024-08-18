@@ -1,6 +1,6 @@
 # Adding Convolutional Neural Network to MLP
 
-This part of the repository demonstrates the result of employing convolutional layers in training multi layer perceptron networks in machine learning frameworks. The datasets being used are MNIST, Fashion MNIST, CIFAR10 and CIFAR100 TensorFlow datasets.
+This part of the repository demonstrates the result of employing convolutional layers in training multi layer perceptron networks in machine learning frameworks. The datasets being used are Mnist, Fashion Mnist, Cifar 10 and Cifar 100 TensorFlow datasets.
 
 
 ## How to Install
@@ -19,10 +19,10 @@ jupyter nbconvert --to script (file_name).ipynb
 
 | Dataset |  MLP (Machine Learning)  | CNN + MLP (Deep Learning) |
 | --------------- | --------------- | --------------- |
-| MNIST | 0.98 | 0.99 |
-| Fashion MNIST | 0.88 | 0.89 |
-| CIFAR10 | 0.41 | 0.84 |
-| CIFAR100 | 0.06 | 0.55 |
+| Mnist | 0.98 | 0.99 |
+| Fashion Mnist | 0.88 | 0.89 |
+| Cifar 10 | 0.41 | 0.84 |
+| Cifar 100 | 0.06 | 0.55 |
 
 
 ## Python
