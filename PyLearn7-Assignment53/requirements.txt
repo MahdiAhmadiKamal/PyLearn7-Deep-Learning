@@ -1,0 +1,6 @@
+matplotlib
+tensorflow
+sklearn
+numpy
+opencv
+telebot
