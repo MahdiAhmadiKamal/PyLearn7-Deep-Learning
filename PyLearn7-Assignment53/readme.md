@@ -1,6 +1,6 @@
 # Custom Datasets_CNN
 
-This part of the repository demonstrates the result of employing CNN for two classification projects. The datasets being used are animals and flowers datasets to classify 5 animals and 17 flowers, respectively. Data augmentation is utilized in both projects and the effect of data augmentation is investigated in the second one. In addition, a telegram bot is defined which is connected to the trained model and recognizes the picture of the flowers that user sends.
+This part of the repository demonstrates the result of employing CNN for two classification projects. The datasets being used are animals and flowers datasets to classify 5 animals and 17 flowers, respectively. Data augmentation is utilized in both projects and the effect of data augmentation is investigated in the second one. In addition, a telegram bot is defined which is connected to the trained model and recognizes the picture of the flower that user sends.
 
 ## How to Install
 Run following command:
