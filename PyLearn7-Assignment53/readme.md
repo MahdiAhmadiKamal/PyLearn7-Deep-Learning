@@ -18,8 +18,8 @@ jupyter nbconvert --to script 5_animals_classification.ipynb
 
 ### Results
 
-<img src="outputs\5 animals output 1.png" width="340">
-<img src="outputs\5 animals output 2.png" width="200">
+<img src="outputs\5 animals output 1.png" width="500">
+<img src="outputs\5 animals output 2.png" width="500">
 
 
 |  |  Train  | Validation |
@@ -43,8 +43,8 @@ jupyter nbconvert --to script 17_flowers_bot.ipynb
 
 ### Results
 
-<img src="outputs\17 flowers output 1.png" width="340">
-<img src="outputs\17 flowers output 2.png" width="200">
+<img src="outputs\17 flowers output 1.png" width="600">
+<img src="outputs\17 flowers output 2.png" width="600">
 
 
 |  |  Train  | Validation | Test |
