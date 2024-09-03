@@ -43,8 +43,8 @@ jupyter nbconvert --to script 17_flowers_bot.ipynb
 
 ### Results
 
-<img src="outputs\17 flowers output 1.png" width="600">
-<img src="outputs\17 flowers output 2.png" width="600">
+<img src="outputs\17 flowers output 1.png" width="500">
+<img src="outputs\17 flowers output 2.png" width="500">
 
 
 |  |  Train  | Validation | Test |
