@@ -22,7 +22,7 @@ jupyter nbconvert --to script face_recognition_inference.ipynb
 ```
 ### Results
 #### with dropout
-<img src="7-7 faces classification\outputs\acc_loss_dropout.png" width="450">
+<img src="7-7 faces classification\outputs\acc_loss_dropout.png" width="600">
 
 |  |  Train  | Validation |
 | --------------- | --------------- | --------------- |
@@ -30,14 +30,14 @@ jupyter nbconvert --to script face_recognition_inference.ipynb
 | Accuracy | 1.000 | 0.863 |
 
 #### without dropout
-<img src="7-7 faces classification\outputs\acc_loss.png" width="450">
+<img src="7-7 faces classification\outputs\acc_loss.png" width="600">
 
 |  |  Train  | Validation |
 | --------------- | --------------- | --------------- |
 | Loss | 0.004 | 0.381 |
 | Accuracy | 1.000 | 0.901 |
 
-<img src="7-7 faces classification\outputs\cm.png" width="225">
+<img src="7-7 faces classification\outputs\cm.png" width="300">
 
 
 ## Python
