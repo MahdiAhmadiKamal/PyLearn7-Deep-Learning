@@ -9,6 +9,7 @@ Run following command:
 ```
 pip install -r requirements.txt
 ```
+
 ## 5 animals classification 🐱🐶🐘🦒🐼
 ### How to Run
 Execute this command in terminal:
@@ -26,7 +27,27 @@ Comparing the results after employing Transfer Learning
 | Loss | 0.062 | 1.206 | 0.008 | 0.036 |
 | Accuracy | 0.972 | 0.755 | 0.998 | 0.998 |
 
-<img src="5 animals classification\outputs\image.png" width="450">
+<img src="5 animals classification\outputs\image.png" width="600">
+
+
+## 17 flowers classification 🌻🌼🌷
+### How to Run
+Execute this command in terminal:
+```
+jupyter nbconvert --to script 17_flowers_classification_augment.ipynb
+```
+```
+jupyter nbconvert --to script 17_flowers_classification_augment_tl.ipynb
+```
+### Results
+Comparing the results after employing Transfer Learning 
+
+|  |  Train  | Validation | Test |  Train_TL  | Validation_TL | Test_TL |
+| ---------- | ---------- | ---------- | ---------- | ---------- |---------- | ---------- |
+| Loss | 0.53 | 0.92 | 1.12 | 0.04 | 0.34 | 0.27 |
+| Accuracy | 0.82 | 0.73 | 0.72 | 0.99 | 0.87 | 0.91 |
+
+<img src="17 flowers classification\outputs\image.png" width="600">
 
 
 ## 7-7 faces classification 🧔🏻👩🏻‍🦳👨🏻👨🏽‍🦳👩🏻‍🦱
