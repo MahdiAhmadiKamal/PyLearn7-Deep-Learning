@@ -10,16 +10,35 @@ Run following command:
 pip install -r requirements.txt
 ```
 
-## 14 faces classification 🧔🏻👩🏻‍🦳👨🏻👨🏽‍🦳👩🏻‍🦱
+## 7-7 faces classification 🧔🏻👩🏻‍🦳👨🏻👨🏽‍🦳👩🏻‍🦱
 
 ### How to Run
 Execute this command in terminal:
 ```
-jupyter nbconvert --to script s54_face_recognition_2.ipynb
+jupyter nbconvert --to script face_recognition.ipynb
 ```
 ```
-jupyter nbconvert --to script s54_face_recognition_2_inference.ipynb
+jupyter nbconvert --to script face_recognition_inference.ipynb
 ```
+### Results
+#### with dropout
+<img src="7-7 faces classification\outputs\acc_loss_dropout.png" width="450">
+
+|  |  Train  | Validation |
+| --------------- | --------------- | --------------- |
+| Loss | 0.007 | 0.429 |
+| Accuracy | 1.000 | 0.863 |
+
+#### without dropout
+<img src="7-7 faces classification\outputs\acc_loss.png" width="450">
+
+|  |  Train  | Validation |
+| --------------- | --------------- | --------------- |
+| Loss | 0.004 | 0.381 |
+| Accuracy | 1.000 | 0.901 |
+
+<img src="7-7 faces classification\outputs\cm.png" width="225">
+
 
 ## Python
 This program is written using [Python](https://www.python.org/) language and the following tools:
