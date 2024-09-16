@@ -9,6 +9,25 @@ Run following command:
 ```
 pip install -r requirements.txt
 ```
+## 5 animals classification 🐱🐶🐘🦒🐼
+### How to Run
+Execute this command in terminal:
+```
+jupyter nbconvert --to script 5_animals_classification.ipynb
+```
+```
+jupyter nbconvert --to script 5_animals_classification_tl.ipynb
+```
+### Results
+Comparing the results after employing Transfer Learning 
+
+|  |  Train  | Validation |  Train_TL  | Validation_TL |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Loss | 0.062 | 1.206 | 0.008 | 0.036 |
+| Accuracy | 0.972 | 0.755 | 0.998 | 0.998 |
+
+<img src="5 animals classification\outputs\image.png" width="450">
+
 
 ## 7-7 faces classification 🧔🏻👩🏻‍🦳👨🏻👨🏽‍🦳👩🏻‍🦱
 
@@ -37,7 +56,7 @@ jupyter nbconvert --to script face_recognition_inference.ipynb
 | Loss | 0.004 | 0.381 |
 | Accuracy | 1.000 | 0.901 |
 
-<img src="7-7 faces classification\outputs\cm.png" width="300">
+<img src="7-7 faces classification\outputs\cm.png" width="450">
 
 
 ## Python
