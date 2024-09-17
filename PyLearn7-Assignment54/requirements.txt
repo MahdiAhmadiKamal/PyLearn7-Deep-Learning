@@ -1,6 +1,7 @@
 matplotlib
 tensorflow
-sklearn
+scikit-learn
 numpy
-opencv
+opencv-python
 telebot
+wandb

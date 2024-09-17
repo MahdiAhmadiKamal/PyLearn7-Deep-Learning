@@ -79,6 +79,28 @@ jupyter nbconvert --to script face_recognition_inference.ipynb
 
 <img src="7-7 faces classification\outputs\cm.png" width="450">
 
+## fellow and clergyman
+### How to Run
+Execute this command in terminal:
+```
+jupyter nbconvert --to script fellow_and_clergyman.ipynb
+```
+```
+jupyter nbconvert --to script fellow_and_clergyman_inference.ipynb
+```
+```
+jupyter nbconvert --to script fellow_and_clergyman_bot.ipynb
+```
+
+### Results
+
+|  |  Train  | Validation |
+| --------------- | --------------- | --------------- |
+| Loss | 0.016 | 0.332 |
+| Accuracy | 0.992 | 0.933 |
+
+<img src="fellow and clergyman\outputs\cm.png" width="450">
+
 
 ## Python
 This program is written using [Python](https://www.python.org/) language and the following tools:
