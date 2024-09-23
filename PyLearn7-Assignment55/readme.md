@@ -37,7 +37,7 @@ jupyter nbconvert --to script home_price_prediction.ipynb
 | --------------- | --------------- | --------------- |
 | MAPE | 41.89 | 49.79 |
 
-<img src="Home Price Prediction\output.png" width="600">
+<img src="Home Price Prediction\output.png" width="500">
 
 
 ## Python
