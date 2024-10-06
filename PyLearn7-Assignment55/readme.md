@@ -36,6 +36,8 @@ jupyter nbconvert --to script home_price_prediction.ipynb
 |  |  Train  | Validation |
 | --------------- | --------------- | --------------- |
 | MAPE | 41.89 | 49.79 |
+| MAE | 0.029 | 0.047 |
+| MSE | 0.005 | 0.005 |
 
 <img src="Home Price Prediction\output.png" width="500">
 
