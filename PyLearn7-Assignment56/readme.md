@@ -18,8 +18,8 @@ jupyter nbconvert --to script persian_license_plate_detection.ipynb
 
 ### Results
 
-<img src="pics\output.png" width="500">
-<img src="pics\output2.png" width="500">
+<img src="pics\output3.png" width="500">
+<img src="pics\output4.png" width="500">
 
 
 ## Python
